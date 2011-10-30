@@ -3,3 +3,5 @@ syntax: glob
 dist/
 build/
 telenor_web2sms.egg-info/
+.project
+.pydevproject
