@@ -42,7 +42,7 @@ and send a pull request. Make sure you add yourself to AUTHORS_.
 .. _AUTHORS: https://bitbucket.org/petar/telenor_web2sms/src/default/AUTHORS
 
 
-telenor_web2sms 1.0.1
-=====================
+New in telenor_web2sms 1.0.1
+============================
 
     * Fixed Python packaging issues.
