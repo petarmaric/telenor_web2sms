@@ -1,3 +1,9 @@
+IMPORTANT NOTICE
+================
+
+This project has been retired. Please contact its author if you wish to take
+over its maintenance.
+
 Installation
 ============
 
@@ -31,7 +37,7 @@ Quick start::
 Contribute
 ==========
 
-If you find any bugs, or wish to propose new features `please let me know`_. 
+If you find any bugs, or wish to propose new features `please let me know`_.
 
 If you'd like to contribute, simply fork `the repository`_, commit your changes
 and send a pull request. Make sure you add yourself to AUTHORS_.
