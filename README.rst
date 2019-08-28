@@ -43,9 +43,9 @@ If you'd like to contribute, simply fork `the repository`_, commit your changes
 and send a pull request. Make sure you add yourself to AUTHORS_.
 
 
-.. _`please let me know`: https://bitbucket.org/petar/telenor_web2sms/issues/new
-.. _`the repository`: http://bitbucket.org/petar/telenor_web2sms
-.. _AUTHORS: https://bitbucket.org/petar/telenor_web2sms/src/default/AUTHORS
+.. _`please let me know`: https://github.com/petarmaric/telenor_web2sms/issues/new
+.. _`the repository`: https://github.com/petarmaric/telenor_web2sms
+.. _AUTHORS: https://github.com/petarmaric/telenor_web2sms/blob/master/AUTHORS
 
 
 New in telenor_web2sms 1.0.2

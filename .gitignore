@@ -1,0 +1,6 @@
+*.pyc
+dist/
+build/
+telenor_web2sms.egg-info/
+.project
+.pydevproject

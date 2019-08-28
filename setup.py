@@ -1,5 +1,5 @@
 from distribute_setup import use_setuptools
-use_setuptools() 
+use_setuptools()
 
 import sys
 from setuptools import setup
@@ -16,8 +16,8 @@ if sys.version_info < (2, 6):
 setup(
     name='telenor_web2sms',
     version=telenor_web2sms.__version__,
-    url='https://bitbucket.org/petar/telenor_web2sms',
-    download_url='https://bitbucket.org/petar/telenor_web2sms',
+    url='https://github.com/petarmaric/telenor_web2sms',
+    download_url='https://github.com/petarmaric/telenor_web2sms',
     license='BSD',
     author='Petar Maric',
     author_email='petar.maric@gmail.com',
@@ -36,7 +36,7 @@ setup(
         'Topic :: Utilities',
     ],
     platforms='any',
-    py_modules=['telenor_web2sms'], 
+    py_modules=['telenor_web2sms'],
     entry_points={
         'console_scripts': ['telenor_web2sms=telenor_web2sms:main']
     },
